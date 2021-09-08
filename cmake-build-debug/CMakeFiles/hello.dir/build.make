@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wangheng/Desktop/cplusplus/hello
+CMAKE_SOURCE_DIR = /Users/wangheng/Desktop/cplusplus/HelloWord
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello.dir/depend.make
@@ -68,42 +68,42 @@ include CMakeFiles/hello.dir/flags.make
 
 CMakeFiles/hello.dir/main.cpp.o: CMakeFiles/hello.dir/flags.make
 CMakeFiles/hello.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/main.cpp.o -c /Users/wangheng/Desktop/cplusplus/hello/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/main.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp
 
 CMakeFiles/hello.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/hello/main.cpp > CMakeFiles/hello.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp > CMakeFiles/hello.dir/main.cpp.i
 
 CMakeFiles/hello.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/hello/main.cpp -o CMakeFiles/hello.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp -o CMakeFiles/hello.dir/main.cpp.s
 
 CMakeFiles/hello.dir/home.cpp.o: CMakeFiles/hello.dir/flags.make
 CMakeFiles/hello.dir/home.cpp.o: ../home.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/home.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/home.cpp.o -c /Users/wangheng/Desktop/cplusplus/hello/home.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/home.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/home.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp
 
 CMakeFiles/hello.dir/home.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/home.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/hello/home.cpp > CMakeFiles/hello.dir/home.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp > CMakeFiles/hello.dir/home.cpp.i
 
 CMakeFiles/hello.dir/home.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/home.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/hello/home.cpp -o CMakeFiles/hello.dir/home.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp -o CMakeFiles/hello.dir/home.cpp.s
 
 CMakeFiles/hello.dir/white.cpp.o: CMakeFiles/hello.dir/flags.make
 CMakeFiles/hello.dir/white.cpp.o: ../white.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/white.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/white.cpp.o -c /Users/wangheng/Desktop/cplusplus/hello/white.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/white.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/white.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp
 
 CMakeFiles/hello.dir/white.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/white.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/hello/white.cpp > CMakeFiles/hello.dir/white.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp > CMakeFiles/hello.dir/white.cpp.i
 
 CMakeFiles/hello.dir/white.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/white.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/hello/white.cpp -o CMakeFiles/hello.dir/white.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp -o CMakeFiles/hello.dir/white.cpp.s
 
 # Object files for target hello
 hello_OBJECTS = \
@@ -119,7 +119,7 @@ hello: CMakeFiles/hello.dir/home.cpp.o
 hello: CMakeFiles/hello.dir/white.cpp.o
 hello: CMakeFiles/hello.dir/build.make
 hello: CMakeFiles/hello.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable hello"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable hello"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -131,6 +131,6 @@ CMakeFiles/hello.dir/clean:
 .PHONY : CMakeFiles/hello.dir/clean
 
 CMakeFiles/hello.dir/depend:
-	cd /Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wangheng/Desktop/cplusplus/hello /Users/wangheng/Desktop/cplusplus/hello /Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug /Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug /Users/wangheng/Desktop/cplusplus/hello/cmake-build-debug/CMakeFiles/hello.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wangheng/Desktop/cplusplus/HelloWord /Users/wangheng/Desktop/cplusplus/HelloWord /Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug /Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug /Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles/hello.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hello.dir/depend
 

@@ -5,3 +5,5 @@ CMakeFiles/hello.dir/home.cpp.o: \
  ../home.cpp
 CMakeFiles/hello.dir/main.cpp.o: \
  ../main.cpp
+CMakeFiles/hello.dir/white.cpp.o: \
+ ../white.cpp
