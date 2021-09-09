@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp
-
-/Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp
+/Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp
 iostream
 -
-iomanip
--
-
-/Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp
 

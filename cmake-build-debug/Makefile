@@ -129,29 +129,29 @@ hello/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/build
 .PHONY : hello/fast
 
-home.o: home.cpp.o
-.PHONY : home.o
+learn.o: learn.cpp.o
+.PHONY : learn.o
 
 # target to build an object file
-home.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/home.cpp.o
-.PHONY : home.cpp.o
+learn.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/learn.cpp.o
+.PHONY : learn.cpp.o
 
-home.i: home.cpp.i
-.PHONY : home.i
+learn.i: learn.cpp.i
+.PHONY : learn.i
 
 # target to preprocess a source file
-home.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/home.cpp.i
-.PHONY : home.cpp.i
+learn.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/learn.cpp.i
+.PHONY : learn.cpp.i
 
-home.s: home.cpp.s
-.PHONY : home.s
+learn.s: learn.cpp.s
+.PHONY : learn.s
 
 # target to generate assembly for a file
-home.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/home.cpp.s
-.PHONY : home.cpp.s
+learn.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.dir/build.make CMakeFiles/hello.dir/learn.cpp.s
+.PHONY : learn.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -210,9 +210,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... hello"
-	@echo "... home.o"
-	@echo "... home.i"
-	@echo "... home.s"
+	@echo "... learn.o"
+	@echo "... learn.i"
+	@echo "... learn.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

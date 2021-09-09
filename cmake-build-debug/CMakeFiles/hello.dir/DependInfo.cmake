@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp" "/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles/hello.dir/home.cpp.o"
+  "/Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp" "/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles/hello.dir/learn.cpp.o"
   "/Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp" "/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles/hello.dir/main.cpp.o"
   "/Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp" "/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles/hello.dir/white.cpp.o"
   )

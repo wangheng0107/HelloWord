@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/wangheng/Desktop/cplusplus/HelloWord/home.cpp">
+		<Unit filename="/Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp">
 			<Option target="hello"/>
 		</Unit>
 		<Unit filename="/Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp">

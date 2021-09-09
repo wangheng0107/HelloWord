@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/hello.dir/home.cpp.o"
+  "CMakeFiles/hello.dir/learn.cpp.o"
   "CMakeFiles/hello.dir/main.cpp.o"
   "CMakeFiles/hello.dir/white.cpp.o"
   "hello"
