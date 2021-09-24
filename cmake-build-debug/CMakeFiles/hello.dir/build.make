@@ -79,47 +79,452 @@ CMakeFiles/hello.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/main.cpp -o CMakeFiles/hello.dir/main.cpp.s
 
-CMakeFiles/hello.dir/white.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/white.cpp.o: ../white.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/white.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/white.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp
+CMakeFiles/hello.dir/C++基础/day.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/day.cpp.o: ../C++基础/day.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/C++基础/day.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/day.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/day.cpp
 
-CMakeFiles/hello.dir/white.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/white.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp > CMakeFiles/hello.dir/white.cpp.i
+CMakeFiles/hello.dir/C++基础/day.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/day.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/day.cpp > CMakeFiles/hello.dir/C++基础/day.cpp.i
 
-CMakeFiles/hello.dir/white.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/white.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/white.cpp -o CMakeFiles/hello.dir/white.cpp.s
+CMakeFiles/hello.dir/C++基础/day.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/day.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/day.cpp -o CMakeFiles/hello.dir/C++基础/day.cpp.s
 
-CMakeFiles/hello.dir/learn.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/learn.cpp.o: ../learn.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/learn.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/learn.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp
+CMakeFiles/hello.dir/C++基础/bool.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/bool.cpp.o: ../C++基础/bool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/C++基础/bool.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/bool.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/bool.cpp
 
-CMakeFiles/hello.dir/learn.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/learn.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp > CMakeFiles/hello.dir/learn.cpp.i
+CMakeFiles/hello.dir/C++基础/bool.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/bool.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/bool.cpp > CMakeFiles/hello.dir/C++基础/bool.cpp.i
 
-CMakeFiles/hello.dir/learn.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/learn.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/learn.cpp -o CMakeFiles/hello.dir/learn.cpp.s
+CMakeFiles/hello.dir/C++基础/bool.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/bool.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/bool.cpp -o CMakeFiles/hello.dir/C++基础/bool.cpp.s
+
+CMakeFiles/hello.dir/C++基础/cin.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/cin.cpp.o: ../C++基础/cin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello.dir/C++基础/cin.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/cin.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/cin.cpp
+
+CMakeFiles/hello.dir/C++基础/cin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/cin.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/cin.cpp > CMakeFiles/hello.dir/C++基础/cin.cpp.i
+
+CMakeFiles/hello.dir/C++基础/cin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/cin.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/cin.cpp -o CMakeFiles/hello.dir/C++基础/cin.cpp.s
+
+CMakeFiles/hello.dir/C++基础/运算符.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/运算符.cpp.o: ../C++基础/运算符.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello.dir/C++基础/运算符.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/运算符.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/运算符.cpp
+
+CMakeFiles/hello.dir/C++基础/运算符.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/运算符.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/运算符.cpp > CMakeFiles/hello.dir/C++基础/运算符.cpp.i
+
+CMakeFiles/hello.dir/C++基础/运算符.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/运算符.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/运算符.cpp -o CMakeFiles/hello.dir/C++基础/运算符.cpp.s
+
+CMakeFiles/hello.dir/C++基础/if.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/if.cpp.o: ../C++基础/if.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hello.dir/C++基础/if.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/if.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/if.cpp
+
+CMakeFiles/hello.dir/C++基础/if.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/if.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/if.cpp > CMakeFiles/hello.dir/C++基础/if.cpp.i
+
+CMakeFiles/hello.dir/C++基础/if.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/if.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/if.cpp -o CMakeFiles/hello.dir/C++基础/if.cpp.s
+
+CMakeFiles/hello.dir/C++基础/三目运算.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/三目运算.cpp.o: ../C++基础/三目运算.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hello.dir/C++基础/三目运算.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/三目运算.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/三目运算.cpp
+
+CMakeFiles/hello.dir/C++基础/三目运算.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/三目运算.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/三目运算.cpp > CMakeFiles/hello.dir/C++基础/三目运算.cpp.i
+
+CMakeFiles/hello.dir/C++基础/三目运算.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/三目运算.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/三目运算.cpp -o CMakeFiles/hello.dir/C++基础/三目运算.cpp.s
+
+CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o: ../算法/算法2_水仙花.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法2_水仙花.cpp
+
+CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法2_水仙花.cpp > CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.i
+
+CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法2_水仙花.cpp -o CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.s
+
+CMakeFiles/hello.dir/C++基础/for.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/for.cpp.o: ../C++基础/for.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/hello.dir/C++基础/for.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/for.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/for.cpp
+
+CMakeFiles/hello.dir/C++基础/for.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/for.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/for.cpp > CMakeFiles/hello.dir/C++基础/for.cpp.i
+
+CMakeFiles/hello.dir/C++基础/for.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/for.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/for.cpp -o CMakeFiles/hello.dir/C++基础/for.cpp.s
+
+CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o: ../算法/算法1_猜数字.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法1_猜数字.cpp
+
+CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法1_猜数字.cpp > CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.i
+
+CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法1_猜数字.cpp -o CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.s
+
+CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o: ../算法/算法3_敲桌子.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法3_敲桌子.cpp
+
+CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法3_敲桌子.cpp > CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.i
+
+CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法3_敲桌子.cpp -o CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.s
+
+CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o: ../C++基础/嵌套循环.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/嵌套循环.cpp
+
+CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/嵌套循环.cpp > CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.i
+
+CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/嵌套循环.cpp -o CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.s
+
+CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o: ../算法/算法4_乘法口诀表.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法4_乘法口诀表.cpp
+
+CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法4_乘法口诀表.cpp > CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.i
+
+CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法4_乘法口诀表.cpp -o CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.s
+
+CMakeFiles/hello.dir/C++基础/goto.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/goto.cpp.o: ../C++基础/goto.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/hello.dir/C++基础/goto.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/goto.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/goto.cpp
+
+CMakeFiles/hello.dir/C++基础/goto.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/goto.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/goto.cpp > CMakeFiles/hello.dir/C++基础/goto.cpp.i
+
+CMakeFiles/hello.dir/C++基础/goto.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/goto.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/goto.cpp -o CMakeFiles/hello.dir/C++基础/goto.cpp.s
+
+CMakeFiles/hello.dir/C++基础/数组.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/数组.cpp.o: ../C++基础/数组.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/hello.dir/C++基础/数组.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/数组.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/数组.cpp
+
+CMakeFiles/hello.dir/C++基础/数组.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/数组.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/数组.cpp > CMakeFiles/hello.dir/C++基础/数组.cpp.i
+
+CMakeFiles/hello.dir/C++基础/数组.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/数组.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/数组.cpp -o CMakeFiles/hello.dir/C++基础/数组.cpp.s
+
+CMakeFiles/hello.dir/C++基础/函数.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/函数.cpp.o: ../C++基础/函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/hello.dir/C++基础/函数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/函数.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/函数.cpp
+
+CMakeFiles/hello.dir/C++基础/函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/函数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/函数.cpp > CMakeFiles/hello.dir/C++基础/函数.cpp.i
+
+CMakeFiles/hello.dir/C++基础/函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/函数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/函数.cpp -o CMakeFiles/hello.dir/C++基础/函数.cpp.s
+
+CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o: ../算法/算法5_五只小猪.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法5_五只小猪.cpp
+
+CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法5_五只小猪.cpp > CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.i
+
+CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法5_五只小猪.cpp -o CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.s
+
+CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o: ../算法/算法6_元素逆置.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法6_元素逆置.cpp
+
+CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法6_元素逆置.cpp > CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.i
+
+CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法6_元素逆置.cpp -o CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.s
+
+CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o: ../算法/算法7_冒泡排序.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法7_冒泡排序.cpp
+
+CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法7_冒泡排序.cpp > CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.i
+
+CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法7_冒泡排序.cpp -o CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.s
+
+CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o: ../算法/算法8_成绩统计.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法8_成绩统计.cpp
+
+CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法8_成绩统计.cpp > CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.i
+
+CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法8_成绩统计.cpp -o CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.s
+
+CMakeFiles/hello.dir/C++基础/结构体.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/结构体.cpp.o: ../C++基础/结构体.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/hello.dir/C++基础/结构体.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/结构体.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体.cpp
+
+CMakeFiles/hello.dir/C++基础/结构体.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/结构体.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体.cpp > CMakeFiles/hello.dir/C++基础/结构体.cpp.i
+
+CMakeFiles/hello.dir/C++基础/结构体.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/结构体.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体.cpp -o CMakeFiles/hello.dir/C++基础/结构体.cpp.s
+
+CMakeFiles/hello.dir/C++基础/指针.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/指针.cpp.o: ../C++基础/指针.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/hello.dir/C++基础/指针.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/指针.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针.cpp
+
+CMakeFiles/hello.dir/C++基础/指针.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/指针.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针.cpp > CMakeFiles/hello.dir/C++基础/指针.cpp.i
+
+CMakeFiles/hello.dir/C++基础/指针.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/指针.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针.cpp -o CMakeFiles/hello.dir/C++基础/指针.cpp.s
+
+CMakeFiles/hello.dir/pointh/max1.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/pointh/max1.cpp.o: ../pointh/max1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/hello.dir/pointh/max1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/pointh/max1.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/max1.cpp
+
+CMakeFiles/hello.dir/pointh/max1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/pointh/max1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/max1.cpp > CMakeFiles/hello.dir/pointh/max1.cpp.i
+
+CMakeFiles/hello.dir/pointh/max1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/pointh/max1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/max1.cpp -o CMakeFiles/hello.dir/pointh/max1.cpp.s
+
+CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o: ../C++基础/指针和数组.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和数组.cpp
+
+CMakeFiles/hello.dir/C++基础/指针和数组.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/指针和数组.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和数组.cpp > CMakeFiles/hello.dir/C++基础/指针和数组.cpp.i
+
+CMakeFiles/hello.dir/C++基础/指针和数组.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/指针和数组.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和数组.cpp -o CMakeFiles/hello.dir/C++基础/指针和数组.cpp.s
+
+CMakeFiles/hello.dir/pointh/swap.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/pointh/swap.cpp.o: ../pointh/swap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/hello.dir/pointh/swap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/pointh/swap.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/swap.cpp
+
+CMakeFiles/hello.dir/pointh/swap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/pointh/swap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/swap.cpp > CMakeFiles/hello.dir/pointh/swap.cpp.i
+
+CMakeFiles/hello.dir/pointh/swap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/pointh/swap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/pointh/swap.cpp -o CMakeFiles/hello.dir/pointh/swap.cpp.s
+
+CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o: ../C++基础/指针和函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和函数.cpp
+
+CMakeFiles/hello.dir/C++基础/指针和函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/指针和函数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和函数.cpp > CMakeFiles/hello.dir/C++基础/指针和函数.cpp.i
+
+CMakeFiles/hello.dir/C++基础/指针和函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/指针和函数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针和函数.cpp -o CMakeFiles/hello.dir/C++基础/指针和函数.cpp.s
+
+CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o: ../C++基础/指针数组函数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针数组函数.cpp
+
+CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针数组函数.cpp > CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.i
+
+CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/指针数组函数.cpp -o CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.s
+
+CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o: ../C++基础/结构体指针.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体指针.cpp
+
+CMakeFiles/hello.dir/C++基础/结构体指针.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/结构体指针.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体指针.cpp > CMakeFiles/hello.dir/C++基础/结构体指针.cpp.i
+
+CMakeFiles/hello.dir/C++基础/结构体指针.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/结构体指针.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体指针.cpp -o CMakeFiles/hello.dir/C++基础/结构体指针.cpp.s
+
+CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o: ../C++基础/结构体参数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体参数.cpp
+
+CMakeFiles/hello.dir/C++基础/结构体参数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/C++基础/结构体参数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体参数.cpp > CMakeFiles/hello.dir/C++基础/结构体参数.cpp.i
+
+CMakeFiles/hello.dir/C++基础/结构体参数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/C++基础/结构体参数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/C++基础/结构体参数.cpp -o CMakeFiles/hello.dir/C++基础/结构体参数.cpp.s
+
+CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o: CMakeFiles/hello.dir/flags.make
+CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o: ../算法/算法9_结构体1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o -c /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法9_结构体1.cpp
+
+CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法9_结构体1.cpp > CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.i
+
+CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wangheng/Desktop/cplusplus/HelloWord/算法/算法9_结构体1.cpp -o CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.s
 
 # Object files for target hello
 hello_OBJECTS = \
 "CMakeFiles/hello.dir/main.cpp.o" \
-"CMakeFiles/hello.dir/white.cpp.o" \
-"CMakeFiles/hello.dir/learn.cpp.o"
+"CMakeFiles/hello.dir/C++基础/day.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/bool.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/cin.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/运算符.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/if.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/三目运算.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/for.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/goto.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/数组.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/函数.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/结构体.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/指针.cpp.o" \
+"CMakeFiles/hello.dir/pointh/max1.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o" \
+"CMakeFiles/hello.dir/pointh/swap.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o" \
+"CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o" \
+"CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o"
 
 # External object files for target hello
 hello_EXTERNAL_OBJECTS =
 
 hello: CMakeFiles/hello.dir/main.cpp.o
-hello: CMakeFiles/hello.dir/white.cpp.o
-hello: CMakeFiles/hello.dir/learn.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/day.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/bool.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/cin.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/运算符.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/if.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/三目运算.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法2_水仙花.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/for.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法1_猜数字.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法3_敲桌子.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/嵌套循环.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法4_乘法口诀表.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/goto.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/数组.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/函数.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法5_五只小猪.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法6_元素逆置.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法7_冒泡排序.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法8_成绩统计.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/结构体.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/指针.cpp.o
+hello: CMakeFiles/hello.dir/pointh/max1.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/指针和数组.cpp.o
+hello: CMakeFiles/hello.dir/pointh/swap.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/指针和函数.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/指针数组函数.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/结构体指针.cpp.o
+hello: CMakeFiles/hello.dir/C++基础/结构体参数.cpp.o
+hello: CMakeFiles/hello.dir/算法/算法9_结构体1.cpp.o
 hello: CMakeFiles/hello.dir/build.make
 hello: CMakeFiles/hello.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable hello"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wangheng/Desktop/cplusplus/HelloWord/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX executable hello"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
